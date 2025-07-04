@@ -1,2 +1,2 @@
-# my-debian-experience
-hello this just my exp on debian and config files wallpapers kinda stuff
+# my-arch-experience
+this is just my exp on arch and config files wallpapers kinda stuff
